@@ -8,4 +8,4 @@
 # checks confidence 
 from langdetect import detect_langs
 
-print(detect_langs("this is language detection "))
+print(detect_langs("This is language detection "))
