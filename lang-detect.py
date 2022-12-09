@@ -1,9 +1,10 @@
+# Language classifier without interface
+
 from langdetect import detect
 from langdetect import detect_langs
 from languages import all_languages_codes
 
 userInput = input("Enter input in any language: ")
-
 language_code = detect_langs(userInput)
 lang_code = detect(userInput)
 

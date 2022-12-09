@@ -1,3 +1,5 @@
+# language code and names
+
 all_languages_codes =   {
   	'ab': 'Abkhazian',
   	'abk': 'Abkhazian',

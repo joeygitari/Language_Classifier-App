@@ -1,0 +1,20 @@
+# examples of different languages to use
+
+input_sentences[
+	"That's thirty minutes away. I'll be there in ten.",
+	"అది ముప్పై నిమిషాల దూరంలో ఉంది. I'll be there in ten.",
+	"అది ముప్పై నిమిషాల దూరంలో ఉంది. నేను పదిలో ఉంటాను.",
+	"वह तीस मिनट की दूरी पर है।. I'll be there in ten.",
+	"Itu tiga puluh menit lagi. Saya akan berada di sana dalam sepuluh.",
+	"Dat is dertig minuten. Ik ben er over tien.",
+	"C'est à trente minutes. Je serai là dans dix.",
+	"वह तीस मिनट की दूरी पर है। मैं दस में वहाँ जाऊँगा।", "ते तीस मिनिटांचे आहे. मी दहामध्ये तिथे येईन.",
+	"那是三十分钟的路程。我会在十点钟到达那里。", "那是三十分鐘的路程。我會在十點鐘到達那裡。", "هذا ثلاثين دقيقة. سأكون هناك في عشرة.",
+	"Դա հեռու է երեսուն րոպե: Ես այնտեղ կլինեմ տասը:",
+	"তিরিশ মিনিট দূরে। আমি সেখানে দশ জন থাকব।",
+	"Hori hogeita hamar minutu falta da. Hamarretan egongo naiz.",
+	"Isso é trinta minutos daqui. Eu estarei lá em dez.", "ÇĞİÖŞÜğçıöşü", "Det er tredive minutter væk. Jeg vil være der om ti",
+	"Dat is dertig minuten. Ik ben er over tien", "Se on 30 minuutin päässä. Olen siellä kymmenessä"
+]
+
+    
